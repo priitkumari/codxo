@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link href="pr.css" rel="stylesheet">
+</head>
+
+<body>
+    <main id="main">
+        <div id="title">
+            <h1>Steve Jobs</h1>
+            <p><em>Stay Hungry Stay Foolish</em></p>
+        </div>
+        <div id="img-div"><img id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/330px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg" alt="Jobs presenting the iPhone 4 in 2010 IMG">
+            <figcaption id="img-caption">
+                <strong>Jobs presenting the iPhone 4 in 2010</strong>
+            </figcaption>
+            <br>
+        </div>
+        <div id="tribute-container">
+            <section id="tribute-info">
+                <h2 id="headline">Here's a time-line of Steve Jobs life:</h2>
+                <ul>
+                    <li><strong>1955</strong> - Born in San Francisco, California</li>
+                    <li>
+                        <strong>1961</strong> - The Jobs family moves to Mountain View, Calif., part of what would later become known as Silicon Valley.
+                    </li>
+                    <li>
+                        <strong>1968</strong> - Jobs calls Bill Hewlett, the co-founder and co-namesake of Hewlett-Packard, looking for spare parts to build a frequency counter. Hewlett gives Jobs the parts, as well as an internship with the company that
+                        summer.
+                    </li>
+                    <li>
+                        <strong>1970</strong> - Meets future Apple co-founder Steve Wozniak through a friend. In Wozniak's 2006 autobiography, "iWoz," he notes that the two "hit it off" immediately, despite their four-year age difference.
+                    </li>
+                    <li>
+                        <strong>1972</strong> - Graduates from Homestead High School in Cupertino, Calif., and enrolls at Reed College in Portland Oregon, Only to drop out a semester later. Jobs would go on to sit in on classes that interested him, such
+                        as calligraphy, despite not getting credit for them.
+                    </li>
+                    <li>
+                        <strong>1974</strong> - Begins a brief stint as an engineer at Atari. Working the night shift, he employs Wozniak to help whittle down the hardware required for a prototype of a single-player version of Pong, the game that would
+                        go on to become Breakout. Jobs leaves Atari in the summer to travel through India, only to return to California to live in a commune.
+                    </li>
+                    <li>
+                        <strong>1976</strong> - Co-founds Apple Computer with Wozniak and Ronald Wayne. That same year, the company sells the Apple I in the form of a kit that sells for $666.66.
+                    </li>
+                    <li>
+                        <strong>1977</strong> - Apple incorporates.
+                    </li>
+                    <li>
+                        <strong>1980</strong> - Apple goes public, putting Jobs' net worth north of $200 million.
+                    </li>
+                    <li>
+                        <strong>1984</strong> - Two days after the $1.5 million Ridley Scott-directed "1984" Super Bowl commercial airs, introduces the Macintosh to much fanfare during Apple's shareholder meeting. "For the first time ever, I'd like to
+                        let Macintosh speak for itself." The computer's voice then says, "Never trust a computer you can't lift." Macintosh becomes the first commercially successful small computer with a graphical user interface.
+                    </li>
+                    <li>
+                        <strong>1985</strong> - CEO John Sculley engineers Jobs' ouster from Apple. Jobs resigns as Apple chairman, saying in a board meeting, "I've been thinking a lot, and it's time for me to get on with my life. It's obvious that I've
+                        got to do something. I'm 30 years old." Soon thereafter, Jobs starts NeXT Computer (which later becomes NeXT Software), funded by selling $70 million of his Apple stock. An "interpersonal" NeXT workstation, sporting a built-in
+                        Ethernet port, is used by Tim Berners-Lee at CERN to become the first server of the World Wide Web.
+                    </li>
+                    <li><strong>1986</strong> - For $10 million, buys the Graphics Group division of Lucasfilm that becomes Pixar Animation Studios.</li>
+                    <li>
+                        <strong>1988</strong> - NeXT Computer releases its first computer.
+                    </li>
+                    <li>
+                        <strong>1993</strong> - NeXT discontinues hardware business, gets into software instead. The company is renamed NeXT Software, Inc.
+                    </li>
+                    <li>
+                        <strong>1995</strong> - Becomes Pixar's president and CEO. Later in the year, Jobs brings Pixar public, one week after the release of "Toy Story," with Tom Hanks doing the voice of Woody and Tim Allen as Buzz Lightyear. The film
+                        earns $192 million at the box office. Its success helps make it quite attractive for celebrities to lend their voices to animated characters.
+                    </li>
+                    <li><strong>1996</strong> -Returns to Apple, as an adviser, after it buys NeXT for $429 million.</li>
+                    <li><strong>1997</strong> - Becomes CEO, initially as the de facto chief, then as interim chief in September.</li>
+                    <li><strong>1998</strong> - Introduces the iMac, which becomes commercially available in August.</li>
+                </ul>
+                <blockquote cite="https://www.uschamber.com/co/start/strategy/steve-jobs-quotes-for-business-owners">
+                    <p>
+                        "Your time is limited, so donot waste it living someone elses life."
+                    </p>
+                    <cite>-- Steve Jobs</cite>
+                </blockquote>
+                <h3>
+                    If you have time, you should read more about this incredible human being on his
+                    <a href="https://en.wikipedia.org/wiki/Steve_Jobs" id="tribute-link"> entry</a>.
+                </h3>
+            </section>
+        </div>
+    </main>
+</body>
+
+</html>
